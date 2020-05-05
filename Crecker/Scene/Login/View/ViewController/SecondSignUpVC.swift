@@ -1,0 +1,19 @@
+//
+//  SecondSignUpVC.swift
+//  Crecker
+//
+//  Created by elesahich on 2020/05/04.
+//  Copyright © 2020 elesahich. All rights reserved.
+//
+
+import UIKit
+
+class SecondSignUpVC: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+
+}
